@@ -33,32 +33,61 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 
 <div align="center">
 
+<!--🐱CAT-->
+<p align="center">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
+<!--🤔INTERESTTITLE-->
+<p align="center">
+<img src="https://i.imgur.com/ozEwbHs.gif">
+
 **Linguagens & Backend**
 <br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
+<br>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
+</p>
 
 **Dados & Banco de Dados**
 <br>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" style="margin: 5px;">
+<br>
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
+</p>
 
 **DevOps & Ferramentas**
+<br>
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" style="margin: 5px;">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
 <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
+</p>
+
 **Gestão Ágil**
 <br>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 <img src="https://img.shields.io/badge/Scrum-Methodology-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Kanban-Workflow-blue?style=for-the-badge" />
-
 </div>
 
 ---
