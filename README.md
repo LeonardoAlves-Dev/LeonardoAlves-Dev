@@ -99,15 +99,6 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves-Dev&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves-Dev&layout=compact&theme=dracula"/>
-</div>
-
----
-
 ### 🏆 Projetos em Destaque
 
 | Projeto | Tecnologias | Descrição |
