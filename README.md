@@ -105,5 +105,5 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| **ZenBank** | Python, CustomTkinter, MVC | Sistema bancário desktop completo com persistência JSON e interface moderna. |
-| **Clash of Champions** | Java, JavaFX, SceneBuilder | RPG de luta 2D com sistema de batalha por turnos e animações. |
+| <a href="https://github.com/LeonardoAlves-Dev/ClashOfChampions" target="_blank" style="font-size: 24px; font-weight: bold;">🌱 **ZenBank**</a> | Python, CustomTkinter, MVC | Sistema bancário desktop completo com persistência JSON e interface moderna. |
+| <a href="https://github.com/LeonardoAlves-Dev/ClashOfChampions" target="_blank" style="font-size: 24px; font-weight: bold;">🎮 **Clash of Champions**</a> | Java, JavaFX, SceneBuilder | RPG de luta 2D com sistema de batalha por turnos e animações. |
