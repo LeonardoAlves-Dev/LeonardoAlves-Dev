@@ -1,16 +1,80 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CC985&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Leonardo+Alves;Dev+Backend+Java+%26+Python;Futuro+Engenheiro+de+Dados;Entusiasta+de+Metodologias+%C3%81geis" alt="Typing SVG" />
+</div>
 
-<!--
-**LeonardoAlves-Dev/LeonardoAlves-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>Estudante de T.I. | Perfil T-Shaped | Foco em Soluções Robustas</h3>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:leonardoalvess09@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 Sobre Mim
+
+Atualmente cursando **Bacharelado em Tecnologia da Informação (BTI)** na **UNIVESP**, construindo uma base sólida para atuar na intersecção entre **Engenharia de Software** e **Engenharia de Dados**.
+
+Minha jornada técnica é complementada por uma forte base em processos, possuindo certificação em **Gestão de Projetos de TI (120h)**, onde desenvolvi competências em Scrum, Kanban e Jira.
+
+* 🔭 **Atualmente trabalhando em:** Refatoração de sistemas legados e projetos de automação bancária.
+* 🌱 **Estudando:** Aprofundamento em **Java (Spring/JavaFX)** e **Python (Pandas/Flask)**.
+* 🚀 **Objetivo:** Aplicar conhecimentos de Back-end e Dados para criar sistemas escaláveis e inteligentes.
+
+---
+
+### 🛠️ Arsenal Tecnológico
+
+<div align="center">
+
+**Linguagens & Backend**
+<br>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+
+**Dados & Banco de Dados**
+<br>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+**DevOps & Ferramentas**
+<br>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+
+**Gestão Ágil**
+<br>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Scrum-Methodology-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Kanban-Workflow-blue?style=for-the-badge" />
+
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves-Dev&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves-Dev&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+### 🏆 Projetos em Destaque
+
+| Projeto | Tecnologias | Descrição |
+| :--- | :--- | :--- |
+| **ZenBank** | Python, CustomTkinter, MVC | Sistema bancário desktop completo com persistência JSON e interface moderna. |
+| **Clash of Champions** | Java, JavaFX, SceneBuilder | RPG de luta 2D com sistema de batalha por turnos e animações. |
