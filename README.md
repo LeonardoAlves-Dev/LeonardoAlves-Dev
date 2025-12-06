@@ -46,20 +46,24 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
 <br>
+<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
 </p>
 
-**Dados & Banco de Dados**
+**Ciência de Dados**
 <br>
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" style="margin: 5px;">
 <br>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
@@ -69,13 +73,16 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 <br>
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" style="margin: 5px;">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="60" style="margin: 5px;">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
 <br>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 
@@ -90,13 +97,6 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 <img src="https://img.shields.io/badge/Kanban-Workflow-blue?style=for-the-badge" />
 </div>
 
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoAlves-Dev&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoAlves-Dev&layout=compact&theme=dracula"/>
 </div>
 
 ---
