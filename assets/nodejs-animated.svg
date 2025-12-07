@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="140" height="140">
+
+  <!-- HEXAGON OUTLINE (animated drawing) -->
+  <path id="hex"
+        d="M128 32 L208 80 L208 176 L128 224 L48 176 L48 80 Z"
+        fill="none"
+        stroke="#6CC24A"
+        stroke-width="8"
+        stroke-linejoin="round"
+        stroke-dasharray="600"
+        stroke-dashoffset="600">
+
+    <animate attributeName="stroke-dashoffset"
+             from="600" to="0"
+             dur="2.2s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <!-- Hexagon Fill (fade-in) -->
+  <path d="M128 40 L200 82 L200 170 L128 210 L56 170 L56 82 Z"
+        fill="#6CC24A"
+        opacity="0">
+    <animate attributeName="opacity"
+             values="0;1;0.95"
+             dur="1.4s"
+             begin="1s"
+             fill="freeze"/>
+  </path>
+
+  <!-- TEXT "NODE" -->
+  <text x="128" y="135"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-weight="900"
+        font-size="52"
+        fill="#ffffff"
+        opacity="0">
+
+    <animate attributeName="opacity"
+             values="0;1;1;0"
+             keyTimes="0;0.3;0.7;1"
+             dur="3s"
+             begin="1.2s"
+             repeatCount="indefinite"/>
+
+    NODE
+  </text>
+
+  <!-- small ".js" -->
+  <text x="170" y="165"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-weight="700"
+        font-size="26"
+        fill="#ffffff"
+        opacity="0">
+
+    <animate attributeName="opacity"
+             values="0;1;1;0"
+             keyTimes="0;0.3;0.7;1"
+             dur="3s"
+             begin="1.3s"
+             repeatCount="indefinite"/>
+
+    .js
+  </text>
+
+</svg>
