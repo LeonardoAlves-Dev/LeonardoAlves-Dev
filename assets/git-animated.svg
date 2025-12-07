@@ -1,0 +1,84 @@
+<svg width="130" height="130" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Borda externa desenhando -->
+  <path
+    d="M128 8C62 8 8 62 8 128s54 120 120 120 120-54 120-120S194 8 128 8z"
+    fill="none"
+    stroke="#F1502F"
+    stroke-width="6"
+    stroke-linejoin="round"
+    stroke-dasharray="650"
+    stroke-dashoffset="650">
+      <animate attributeName="stroke-dashoffset"
+               from="650"
+               to="0"
+               dur="2.2s"
+               repeatCount="indefinite" />
+  </path>
+
+  <!-- Grupo do losango laranja do Git -->
+  <g id="git-core" opacity="0">
+
+    <!-- Fade in -->
+    <animate attributeName="opacity"
+             values="0;1"
+             dur="1.2s"
+             begin="0.4s"
+             fill="freeze"/>
+
+    <!-- Movimento leve: respiração -->
+    <animateTransform
+        attributeName="transform"
+        type="scale"
+        values="1;1.03;1"
+        dur="3.5s"
+        repeatCount="indefinite"
+        additive="sum"/>
+
+    <!-- Losango do Git -->
+    
+
+    <!-- Linha inferior para o ponto superior -->
+    <line x1="110" y1="150" x2="150" y2="110">
+      <animate attributeName="stroke-width"
+               values="14;20;14"
+               dur="1.6s"
+               repeatCount="indefinite"/>
+    </line>
+
+    <!-- Linha lateral -->
+    <line x1="110" y1="110" x2="150" y2="150">
+      <animate attributeName="stroke-width"
+               values="14;20;14"
+               begin="0.4s"
+               dur="1.6s"
+               repeatCount="indefinite"/>
+    </line>
+
+    <!-- Pontos -->
+    <circle cx="110" cy="110" r="12" fill="#FFFFFF">
+      <animate attributeName="r"
+               values="12;18;12"
+               dur="1.4s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="150" cy="150" r="12" fill="#FFFFFF">
+      <animate attributeName="r"
+               values="12;18;12"
+               begin="0.3s"
+               dur="1.4s"
+               repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="150" cy="110" r="12" fill="#FFFFFF">
+      <animate attributeName="r"
+               values="12;18;12"
+               begin="0.6s"
+               dur="1.4s"
+               repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+</svg>
