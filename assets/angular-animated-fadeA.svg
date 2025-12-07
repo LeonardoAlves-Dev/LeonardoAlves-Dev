@@ -9,7 +9,7 @@
       d="M64 5L5 25l9 78 50 20 50-20 9-78L64 5z"
       fill="none"
       stroke="#FFFFFF"
-      stroke-width="7"
+      stroke-width="9"
       stroke-linejoin="round"
       stroke-dasharray="400"
       stroke-dashoffset="400">
@@ -17,7 +17,7 @@
         attributeName="stroke-dashoffset"
         from="400"
         to="0"
-        dur="2s"
+        dur="3s"
         fill="freeze"
         repeatCount="indefinite"/>
     </path>
