@@ -3,13 +3,13 @@
   <!-- Grupo principal -->
   <g>
 
-    <!-- Desenho da borda branca -->
+    <!-- Desenho da borda branca (ESPESSURA AUMENTADA) -->
     <path
       id="border"
       d="M64 5L5 25l9 78 50 20 50-20 9-78L64 5z"
       fill="none"
       stroke="#FFFFFF"
-      stroke-width="4"
+      stroke-width="7"
       stroke-linejoin="round"
       stroke-dasharray="400"
       stroke-dashoffset="400">
@@ -32,13 +32,13 @@
           d="M64 5v118l50-20 9-78-59-20z">
     </path>
 
-    <!-- Letra A (aparece/desaparece com fade in / fade out) -->
+    <!-- Letra A (ESCALADA, MELHOR PROPORÇÃO, MESMA ANIMAÇÃO) -->
     <path
       id="A-fade"
       d="M64 28L34 92h12l6-14h24l6 14h12L64 28zm-7 38l7-16 7 16H57z"
       fill="#FFFFFF"
-      opacity="0">
-      <!-- animação de fade in -> fade out -->
+      opacity="0"
+      transform="scale(1.18) translate(-11 -14)">
       <animate
         attributeName="opacity"
         values="0;1;0"
