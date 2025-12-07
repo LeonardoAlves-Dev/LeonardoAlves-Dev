@@ -44,7 +44,7 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 **Backend & Frontend**
 <br>
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/angular-animated-fadeA.svg" width="50" alt="Angular animated">
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
@@ -82,6 +82,7 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;">
 <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
 <!-- <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> -->
+<!-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" /> -->
 <br>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
