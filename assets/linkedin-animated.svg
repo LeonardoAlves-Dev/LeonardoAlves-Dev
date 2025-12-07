@@ -32,7 +32,7 @@
   </text>
 
   <!-- Animated dot ("i" dot bubble rising) -->
-  <circle cx="98" cy="110" r="10" fill="white">
+  <circle cx="91" cy="91" r="12" fill="white">
 
     <!-- Rise animation -->
     <animateTransform
