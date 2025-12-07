@@ -5,7 +5,7 @@
     d="M128 12C66 12 16 62 16 124s50 112 112 112 112-50 112-112S190 12 128 12z"
     fill="none"
     stroke="#336791"
-    stroke-width="280"
+    stroke-width="290"
     stroke-linejoin="round"
     stroke-dasharray="800"
     stroke-dashoffset="1000">
@@ -20,7 +20,7 @@
     <animate attributeName="opacity"
              values="0;1"
              dur="1.8s"
-             begin="0.4s"
+             begin="0.2s"
              fill="freeze"/>
 
     <!-- Tromba se mexendo suavemente -->
