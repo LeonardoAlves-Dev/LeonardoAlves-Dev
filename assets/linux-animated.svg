@@ -1,0 +1,45 @@
+<svg width="140" height="140" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Grupo geral com animação de balanço -->
+  <g id="tux"
+     transform="translate(0 0)">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      values="-4 64 64; 4 64 64; -4 64 64"
+      dur="3.6s"
+      repeatCount="indefinite"/>
+
+    <!-- Corpo preto -->
+    <path
+      d="M64 10c-15 0-28 14-28 32v18c0 15-10 22-10 34 0 14 14 24 38 24s38-10 38-24c0-12-10-19-10-34V42c0-18-13-32-28-32z"
+      fill="#000000" />
+
+    <!-- Barriga branca -->
+    <ellipse cx="64" cy="70" rx="22" ry="32" fill="#ffffff" />
+
+    <!-- Pés -->
+    <ellipse cx="45" cy="113" rx="14" ry="7" fill="#f7a400"/>
+    <ellipse cx="83" cy="113" rx="14" ry="7" fill="#f7a400"/>
+
+    <!-- Olho esquerdo -->
+    <ellipse cx="54" cy="42" rx="7" ry="9" fill="#ffffff"/>
+    <ellipse cx="54" cy="45" rx="3" ry="4" fill="#000000"/>
+
+    <!-- Olho direito -->
+    <ellipse cx="74" cy="42" rx="7" ry="9" fill="#ffffff"/>
+    <ellipse cx="74" cy="45" rx="3" ry="4" fill="#000000"/>
+
+    <!-- Bico -->
+    <path
+      d="M58 55c3 3 9 3 12 0-2-3-10-3-12 0z"
+      fill="#f7a400"/>
+
+    <!-- Brilho no olho (micro animação) -->
+    <circle cx="53" cy="43" r="1.2" fill="#ffffff"/>
+    <circle cx="73" cy="43" r="1.2" fill="#ffffff"/>
+
+  </g>
+
+</svg>
