@@ -5,13 +5,13 @@
     d="M128 12C66 12 16 62 16 124s50 112 112 112 112-50 112-112S190 12 128 12z"
     fill="none"
     stroke="#336791"
-    stroke-width="300"
+    stroke-width="280"
     stroke-linejoin="round"
-    stroke-dasharray="1200"
-    stroke-dashoffset="1200">
+    stroke-dasharray="800"
+    stroke-dashoffset="1000">
       <animate attributeName="stroke-dashoffset"
-               from="1200" to="0"
-               dur="4.4s"
+               from="800" to="0"
+               dur="3.2s"
                repeatCount="indefinite"/>
   </path>
 
@@ -27,8 +27,8 @@
     <animateTransform
         attributeName="transform"
         type="translate"
-        values="0,0; 0,2; 0,0"
-        dur="2.2s"
+        values="0,0; 0,9; 0,0"
+        dur="4.2s"
         repeatCount="indefinite"/>
 
     <!-- DESENHO OFICIAL DO ELEFANTE -->
