@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="140" height="140">
+
+  <!-- Blue background triangle (static) -->
+  <path d="M40 180 L140 80 L200 80 L100 180 Z"
+        fill="#02569B" />
+
+  <!-- Light blue wing (animated flap) -->
+  <path id="wing"
+        d="M40 140 L140 40 L200 40 L100 140 Z"
+        fill="#38BDF8"
+        transform-origin="140 80">
+
+    <!-- Wing flapping animation -->
+    <animateTransform
+        attributeName="transform"
+        attributeType="XML"
+        type="rotate"
+        values="0; -10; 0; 5; 0"
+        dur="2s"
+        repeatCount="indefinite"/>
+  </path>
+
+  <!-- Flutter text fade-in/out -->
+  <text x="128" y="225"
+        text-anchor="middle"
+        font-family="Arial, sans-serif"
+        font-size="32"
+        font-weight="800"
+        fill="#38BDF8"
+        opacity="0">
+
+    <animate attributeName="opacity"
+             values="0;1;1;0"
+             dur="3s"
+             repeatCount="indefinite"/>
+    Flutter
+  </text>
+
+</svg>
