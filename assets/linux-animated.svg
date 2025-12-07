@@ -4,15 +4,15 @@
   <g id="fade" opacity="0">
     <animate attributeName="opacity"
              values="0;1;0"
-             dur="3s"
+             dur="5s"
              repeatCount="indefinite" />
 	transform="translate(0 0)">
     <animateTransform
       attributeName="transform"
       attributeType="XML"
       type="rotate"
-      values="-4 64 64; 4 64 64; -4 64 64"
-      dur="3s"
+      values="-3 64 64; 3 64 64; -3 64 64"
+      dur="5s"
       repeatCount="indefinite"/>
 
     <!-- INÍCIO DO SEU SVG ORIGINAL (TUX OFICIAL) -->
