@@ -1,0 +1,65 @@
+<svg width="520" height="520" viewBox="0 0 520 520" xmlns="http://www.w3.org/2000/svg">
+
+  <style>
+    /* --- ANIMAÇÃO DA PLANILHA (FUNDO) --- */
+    .sheet {
+      opacity: 0;
+      animation: sheetAnim 4s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    @keyframes sheetAnim {
+      0%   { opacity: 0; transform: scale(0.96); }
+      15%  { opacity: 1; transform: scale(1); }
+      75%  { opacity: 1; transform: scale(1); }
+      100% { opacity: 0; transform: scale(0.96); }
+    }
+
+    /* --- ANIMAÇÃO DO CARTÃO FRONTAL --- */
+    .card {
+      opacity: 0;
+      animation: cardAnim 4s ease-in-out infinite;
+      transform-origin: center;
+    }
+
+    @keyframes cardAnim {
+      0%   { opacity: 0; transform: translateY(10px); }
+      20%  { opacity: 1; transform: translateY(0); }
+      75%  { opacity: 1; transform: translateY(0); }
+      100% { opacity: 0; transform: translateY(10px); }
+    }
+
+    /* --- X DESENHANDO --- */
+    .xstroke {
+      stroke: white;
+      stroke-width: 42;
+      stroke-linecap: round;
+      fill: none;
+
+      stroke-dasharray: 420;
+      stroke-dashoffset: 420;
+
+      animation: drawX 4s ease-in-out infinite;
+    }
+
+    @keyframes drawX {
+      0%   { stroke-dashoffset: 420; opacity: 0; }
+      20%  { opacity: 1; }
+      55%  { stroke-dashoffset: 0; opacity: 1; }
+      75%  { opacity: 1; }
+      100% { opacity: 0; stroke-dashoffset: 420; }
+    }
+  </style>
+
+  <!-- PLANILHA (FUNDO) — Proporções fiéis ao Excel moderno -->
+  <rect class="sheet" x="160" y="40" width="320" height="440" rx="45" fill="#21a366"/>
+  <rect class="sheet" x="160" y="160" width="320" height="140" fill="#107c41" opacity="0.82"/>
+  <rect class="sheet" x="160" y="300" width="320" height="180" fill="#185c37" opacity="0.92"/>
+
+  <!-- CARTÃO MENOR (FRENTE) -->
+  <rect class="card" x="40" y="120" width="240" height="280" rx="38" fill="#0e6f3a"/>
+
+  <!-- X DESENHANDO -->
+  <path class="xstroke" d="M110 190 L210 330 M210 190 L110 330" />
+
+</svg>
