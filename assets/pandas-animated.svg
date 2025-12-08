@@ -45,15 +45,16 @@
 
     .pandas-text {
         font-family: 'Arial Rounded MT Bold', sans-serif;
-        font-size: 105px;
+        font-size: 106px;
         fill: #0F0A6E;
         font-weight: 700;
+        border-radius: 10px;
         animation: fadeText 5s ease-in-out infinite;
     }
 </style>
 
-<!-- Fundo amarelo Power BI -->
-  <rect width="720" height="260" border-radius="30px" fill="#FFF"/>
+<!-- Fundo -->
+  <rect width="720" height="260" border-radius="30px" fill="#FFFFFF"/>
 
 <!-- Grupo das barras -->
 <g transform="translate(70,20)">
@@ -84,6 +85,6 @@
 </g>
 
 <!-- TEXTO DO LOGO -->
-<text class="pandas-text" font-size="30" font-weight="bold" font-family="Arial, sans-serif" x="260" y="165">PANDAS</text>
+<text class="pandas-text" x="260" y="165">PANDAS</text>
 
 </svg>
