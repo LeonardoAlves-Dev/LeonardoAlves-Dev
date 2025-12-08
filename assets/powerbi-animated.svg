@@ -1,0 +1,55 @@
+<svg width="140" height="140" viewBox="0 0 140 140" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Fundo amarelo Power BI -->
+  <rect width="140" height="140" fill="#F2C811"/>
+
+  <!-- Texto Power BI -->
+  <text x="10" y="22" font-size="18" font-weight="bold" fill="#B8860B" font-family="Arial, sans-serif">
+    Power BI
+  </text>
+
+  <!-- Grupo com animação em loop -->
+  <g transform="translate(20,45)" opacity="1">
+    <animate attributeName="opacity"
+             values="1;1;0"
+             dur="6s"
+             repeatCount="indefinite"/>
+
+    <!-- Barra 1 - branca -->
+    <rect x="0" y="70" width="22" height="0" fill="#FFFFFF">
+      <animate attributeName="height" from="0" to="30" dur="0.8s" fill="freeze"/>
+      <animate attributeName="y" from="70" to="40" dur="0.8s" fill="freeze"/>
+    </rect>
+
+    <!-- Barra 2 - laranja claro -->
+    <rect x="30" y="70" width="22" height="0" fill="#FFB347">
+      <animate attributeName="height" from="0" to="45" dur="0.8s" begin="0.8s" fill="freeze"/>
+      <animate attributeName="y" from="70" to="25" dur="0.8s" begin="0.8s" fill="freeze"/>
+    </rect>
+
+    <!-- Barra 3 - laranja médio -->
+    <rect x="60" y="70" width="22" height="0" fill="#FF8C00">
+      <animate attributeName="height" from="0" to="60" dur="0.8s" begin="1.6s" fill="freeze"/>
+      <animate attributeName="y" from="70" to="10" dur="0.8s" begin="1.6s" fill="freeze"/>
+    </rect>
+
+    <!-- Barra 4 - dourado bronze escuro -->
+    <rect x="90" y="70" width="22" height="0" fill="#B87333">
+      <animate attributeName="height" from="0" to="80" dur="0.8s" begin="2.4s" fill="freeze"/>
+      <animate attributeName="y" from="70" to="-10" dur="0.8s" begin="2.4s" fill="freeze"/>
+    </rect>
+
+    <!-- Linha curva branca REAL em U aberto -->
+    <path d="
+      M 10 70
+      C 30 30,
+        70 0,
+        105 -10
+    "
+      stroke="white" stroke-width="4" fill="none" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.7s" begin="3.2s" fill="freeze"/>
+    </path>
+
+  </g>
+
+</svg>
