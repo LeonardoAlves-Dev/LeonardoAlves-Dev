@@ -4,7 +4,7 @@
   <rect width="140" height="140" fill="#F2C811"/>
 
   <!-- Texto Power BI -->
-  <text x="10" y="26" font-size="28" font-weight="bold" fill="#B8860B" font-family="Arial, sans-serif">
+  <text x="10" y="26" font-size="28" font-weight="bold" fill="#666" font-family="Arial, sans-serif">
     Power BI
   </text>
 
