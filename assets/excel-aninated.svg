@@ -83,7 +83,7 @@
     <!-- GRUPO DO X BRANCO (ANIMADO) -->
   <g>
     <!-- X oficial extraído do SVG -->
-    <path class="sheet" id="excel-x" fill="none" stroke="#FFFFFF" stroke-width="140" stroke-linejoin="round" stroke-linecap="round"
+    <path class="sheet" id="excel-x" fill="none" stroke="#FFFFFF" stroke-width="100" stroke-linejoin="round" stroke-linecap="round"
       d="M302.3,1382.264
          L507.632,1064.095
          L319.5,747.683
@@ -103,7 +103,7 @@
          c-3.474,10.075-8.083,19.722-13.739,28.755
          l-122.102,223.011
          H302.3z"
-      stroke-dasharray="3200"
+      stroke-dasharray="6400"
       stroke-dashoffset="3200">
 
       <!-- Desenha o X -->
