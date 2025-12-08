@@ -52,35 +52,38 @@
     }
 </style>
 
+<!-- Fundo amarelo Power BI 
+  <rect width="720" height="260" fill="#FFF"/>-->
+
 <!-- Grupo das barras -->
 <g transform="translate(70,20)">
 
     <!-- Barra grande esquerda -->
-    <rect class="bar b1" x="0" y="0" width="38" height="220" rx="8" fill="#0F0A6E"/>
+    <rect class="bar b1" x="-40" y="0" width="38" height="220" rx="8" fill="#0F0A6E"/>
 
     <!-- Barra pequena superior -->
-    <rect class="bar b2" x="60" y="0" width="34" height="110" rx="8" fill="#0F0A6E"/>
+    <rect class="bar b2" x="20" y="0" width="34" height="110" rx="8" fill="#0F0A6E"/>
 
     <!-- quadrado amarelo -->
-    <rect class="q q1" x="60" y="125" width="34" height="34" rx="6" fill="#FFD300"/>
+    <rect class="q q1" x="20" y="125" width="34" height="34" rx="6" fill="#FFD300"/>
 
     <!-- Barra pequena inferior -->
-    <rect class="bar b3" x="60" y="170" width="34" height="50" rx="8" fill="#0F0A6E"/>
+    <rect class="bar b3" x="20" y="170" width="34" height="50" rx="8" fill="#0F0A6E"/>
 
     <!-- Barra pequena superior (coluna 3) -->
-    <rect class="bar b4" x="120" y="0" width="34" height="65" rx="8" fill="#0F0A6E"/>
+    <rect class="bar b4" x="80" y="0" width="34" height="65" rx="8" fill="#0F0A6E"/>
 
     <!-- quadrado magenta -->
-    <rect class="q q2" x="120" y="85" width="34" height="34" rx="6" fill="#FF1970"/>
+    <rect class="q q2" x="80" y="85" width="34" height="34" rx="6" fill="#FF1970"/>
 
     <!-- Barra pequena inferior (coluna 3) -->
-    <rect class="bar b5" x="120" y="130" width="34" height="90" rx="8" fill="#0F0A6E"/>
+    <rect class="bar b5" x="80" y="130" width="34" height="90" rx="8" fill="#0F0A6E"/>
 
     <!-- Barra grande direita -->
-    <rect class="bar b6" x="180" y="0" width="38" height="220" rx="8" fill="#0F0A6E"/>
+    <rect class="bar b6" x="140" y="0" width="38" height="220" rx="8" fill="#0F0A6E"/>
 </g>
 
 <!-- TEXTO DO LOGO -->
-<text class="pandas-text" x="280" y="165">pandas</text>
+<text class="pandas-text" font-size="30" font-weight="bold" font-family="Arial, sans-serif" x="260" y="165">PANDAS</text>
 
 </svg>
