@@ -59,17 +59,17 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 
 **Ciência de Dados**
 <br>
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/pandas-animated.svg" width="65" alt="pandas animated">
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/pandas-animated.svg" width="110" alt="pandas animated">
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/powerbi-animated.svg" width="50" alt="powerbi animated">
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/excel-aninated.svg" width="55" alt="excel aninated">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/postgres-animated.svg" width="45" alt="postgres animated">
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/mongodb-animated.svg" width="50" alt="mongodb animated">
-<br>
+<!--<br>
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<!--<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 <!--<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> -->
 
 <p align="center">
