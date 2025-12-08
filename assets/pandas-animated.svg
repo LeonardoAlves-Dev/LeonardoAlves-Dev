@@ -52,8 +52,8 @@
     }
 </style>
 
-<!-- Fundo amarelo Power BI 
-  <rect width="720" height="260" fill="#FFF"/>-->
+<!-- Fundo amarelo Power BI -->
+  <rect width="720" height="260" border-radius="30px" fill="#FFF"/>
 
 <!-- Grupo das barras -->
 <g transform="translate(70,20)">
