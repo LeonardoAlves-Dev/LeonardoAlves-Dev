@@ -1,0 +1,86 @@
+<svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg">
+
+<style>
+    /* --- ANIMAÇÃO DAS BARRAS --- */
+    @keyframes floatBar {
+        0%   { transform: translateY(0); opacity: 1; }
+        50%  { transform: translateY(-12px); opacity: 0.8; }
+        100% { transform: translateY(0); opacity: 1; }
+    }
+
+    .bar {
+        animation: floatBar 2.8s ease-in-out infinite;
+        transform-origin: center;
+    }
+
+    /* delays individuais para efeito ripple */
+    .b1 { animation-delay: 0s; }
+    .b2 { animation-delay: 0.2s; }
+    .b3 { animation-delay: 0.4s; }
+    .b4 { animation-delay: 0.6s; }
+    .b5 { animation-delay: 0.8s; }
+    .b6 { animation-delay: 1s; }
+
+    /* --- QUADRADOS COLORIDOS PULSANDO --- */
+    @keyframes pulseColor {
+        0% { opacity: 1; transform: scale(1); }
+        50% { opacity: 0.55; transform: scale(0.85); }
+        100% { opacity: 1; transform: scale(1); }
+    }
+
+    .q {
+        animation: pulseColor 2.2s ease-in-out infinite;
+    }
+
+    .q1 { animation-delay: 0.5s; }
+    .q2 { animation-delay: 1.1s; }
+
+    /* --- TEXTO COM FADE LOOP --- */
+    @keyframes fadeText {
+        0% { opacity: 0; }
+        15% { opacity: 1; }
+        70% { opacity: 1; }
+        100% { opacity: 0; }
+    }
+
+    .pandas-text {
+        font-family: 'Arial Rounded MT Bold', sans-serif;
+        font-size: 105px;
+        fill: #0F0A6E;
+        font-weight: 700;
+        animation: fadeText 5s ease-in-out infinite;
+    }
+</style>
+
+<!-- Grupo das barras -->
+<g transform="translate(70,20)">
+
+    <!-- Barra grande esquerda -->
+    <rect class="bar b1" x="0" y="0" width="38" height="220" rx="8" fill="#0F0A6E"/>
+
+    <!-- Barra pequena superior -->
+    <rect class="bar b2" x="60" y="0" width="34" height="110" rx="8" fill="#0F0A6E"/>
+
+    <!-- quadrado amarelo -->
+    <rect class="q q1" x="60" y="125" width="34" height="34" rx="6" fill="#FFD300"/>
+
+    <!-- Barra pequena inferior -->
+    <rect class="bar b3" x="60" y="170" width="34" height="50" rx="8" fill="#0F0A6E"/>
+
+    <!-- Barra pequena superior (coluna 3) -->
+    <rect class="bar b4" x="120" y="0" width="34" height="65" rx="8" fill="#0F0A6E"/>
+
+    <!-- quadrado magenta -->
+    <rect class="q q2" x="120" y="85" width="34" height="34" rx="6" fill="#FF1970"/>
+
+    <!-- Barra pequena inferior (coluna 3) -->
+    <rect class="bar b5" x="120" y="130" width="34" height="90" rx="8" fill="#0F0A6E"/>
+
+    <!-- Barra grande direita -->
+    <rect class="bar b6" x="180" y="0" width="38" height="220" rx="8" fill="#0F0A6E"/>
+</g>
+
+<!-- TEXTO DO LOGO -->
+<text class="pandas-text" x="280" y="165">pandas</text>
+
+</svg>
