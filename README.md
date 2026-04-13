@@ -31,53 +31,72 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 <div align="center">
 
 <!--🐱CAT-->
+<!--<br>
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+-->
 
 <!--🤔INTERESTTITLE-->
+<!--<br>
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
 
+
 **Backend & Frontend**
+
 <br>
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
+<!--<br>
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/angular-animated-fadeA.svg" width="50" alt="Angular animated">
+-->
 <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
+<!--<br>
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/nodejs-animated.svg" width="65" alt="nodejs animated">
+-->
 <br>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<!--<br>
 <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
+-->
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" style="margin: 5px;">
 
+<!--<br>
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
 </p>
 
+
 **Ciência de Dados**
 <br>
+
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/pandas-animated.svg" width="110" alt="pandas animated">
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/powerbi-animated.svg" width="50" alt="powerbi animated">
+-->
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/excel-aninated.svg" width="55" alt="excel aninated">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
+<!--<br>
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/postgres-animated.svg" width="45" alt="postgres animated">
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/mongodb-animated.svg" width="50" alt="mongodb animated">
-<!--<br>
+ -->
+ <!--<br>
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
 <!--<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> -->
 
+ <!--<br>
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
 </p>
 
 **DevOps & Ferramentas**
 <br>
+-->
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/git-animated.svg" width="85"><img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/linux-animated.svg" width="60" alt="Linux Tux animated"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
 <br>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
