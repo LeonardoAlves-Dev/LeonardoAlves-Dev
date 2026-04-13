@@ -40,9 +40,9 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 <!--<br>
 <p align="center">
 <img src="https://i.imgur.com/ozEwbHs.gif">
+-->
 
-
-**Backend & Frontend**
+**Backend & Frontend / Ciência de Dados**
 
 <br>
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
