@@ -1,28 +1,25 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CC985&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Eu+sou+o+Leonardo+Alves;Dev+Backend+Java+%26+Python;Futuro+Engenheiro+de+Dados;Entusiasta+de+Metodologias+%C3%81geis" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <h3>Estudante de T.I. | Perfil T-Shaped | Foco em Soluções Robustas</h3><a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank"><img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/linkedin-animated.svg" width="45" alt="linkedin animated"></a>
-</div>
-
-<!--<p align="center">
-  <a href="mailto:leonardoalvess09@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <h1>Olá, eu sou o Leonardo Alves</h1>
+  <h3>Engenheiro de Software & Dados | Cursando Ciência da Dados na UNIVESP</h3>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>-->
+  <a href="mailto:leonardoalvess09@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
 
 ---
 
 ### 👨‍💻 Sobre Mim
 
-Atualmente cursando **Bacharelado em Tecnologia da Informação (BTI)** na **UNIVESP**, construindo uma base sólida para atuar na intersecção entre **Engenharia de Software** e **Engenharia de Dados**.
+Construindo uma arquitetura de carreira sólida na intersecção entre **Engenharia de Software** e **Ciência de Dados**. Como estudante de Tecnologia da Informação na **UNIVESP**, meu foco está na criação de sistemas resilientes, APIs RESTful escaláveis e automações inteligentes orientadas a dados.
 
-Minha jornada técnica é complementada por uma forte base em processos, possuindo certificação em **Gestão de Projetos de TI (120h)**, onde desenvolvi competências em Scrum, Kanban e Jira.
+Possuo uma raiz forte no desenvolvimento web e manipulação de DOM (HTML5, CSS3, JS, PHP), o que me permite atuar com visão **Full Stack**, enquanto concentro minha força arquitetural no Back-end e na engenharia de pipelines. Além do rigor técnico, possuo certificação em **Gestão de Projetos de TI (120h)**, aplicando governança ágil (Scrum/Kanban) e ferramentas como Jira no ciclo de vida do software.
 
-* 🔭 **Atualmente trabalhando em:** Refatoração de sistemas legados e projetos de automação bancária.
-* 🌱 **Estudando:** Aprofundamento em **Java (Spring/JavaFX)** e **Python (Pandas/Flask)**.
-* 🚀 **Objetivo:** Aplicar conhecimentos de Back-end e Dados para criar sistemas escaláveis e inteligentes.
+* 🔭 **Foco Atual:** Desenvolvimento de APIs Enterprise (Java/Spring Boot), construção de SPAs e scripts de automação analítica (Python/Pandas).
+* 🌱 **Aprofundando em:** Arquitetura de Software (Docker, AWS), Bancos de Dados Avançados (PostgreSQL/MongoDB) e ecossistemas reativos (Angular).
+* 🎯 **Roadmap de Carreira:** Consolidar a base de Engenharia de Software para evoluir em arquiteturas de **Data Engineering** e, a longo prazo, **MLOps**.
 
 ---
 
@@ -30,102 +27,55 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 
 <div align="center">
 
-<!--🐱CAT-->
-<!--<br>
-<p align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
--->
-
-<!--🤔INTERESTTITLE-->
-<!--<br>
-<p align="center">
-<img src="https://i.imgur.com/ozEwbHs.gif">
--->
-
-**Backend & Frontend / Ciência de Dados**
-
+**Software Engineering (Back-end & Front-end)**
 <br>
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="60" style="margin: 5px;">
-<!--<br>
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/angular-animated-fadeA.svg" width="50" alt="Angular animated">
--->
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 5px;">
-<!--<br>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="60" style="margin: 5px;">
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/nodejs-animated.svg" width="65" alt="nodejs animated">
--->
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" style="margin: 0px 15px 0px -15px;"/>
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API Rest" width="65" height="65" style="margin-bottom: -15px;"/>
 <br>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<!--<br>
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="45" height="45" />
--->
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 5px;">
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" style="margin: 5px;">
-
-<!--<br>
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
-</p>
-
-
-**Ciência de Dados**
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 <br>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="75" height="75" style="margin: 0px 0px -15px -15px;">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Typescript" alt="icon" width="75" height="75" style="margin: 0px 0px -15px -15px;"/>
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" style="margin: 0px 15px 0px 15px;">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" />
+<br>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<br><br>
 
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/pandas-animated.svg" width="110" alt="pandas animated">
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/powerbi-animated.svg" width="50" alt="powerbi animated">
--->
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/excel-aninated.svg" width="55" alt="excel aninated">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 5px;">
-<!--<br>
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/postgres-animated.svg" width="45" alt="postgres animated">
+**Engenharia de Dados & Automação**
+<br>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 0px 15px 0px 10px;">
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/postgres-animated.svg" width="45" alt="postgres animated" style="margin: 0px 15px 0px 10px;"/>
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/mongodb-animated.svg" width="50" alt="mongodb animated">
- -->
- <!--<br>
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-<!--<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /> -->
-
- <!--<br>
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
-</p>
-
-**DevOps & Ferramentas**
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 0px 15px 0px 10px;">
 <br>
--->
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/git-animated.svg" width="85"><img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/linux-animated.svg" width="60" alt="Linux Tux animated"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 5px;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" style="margin: 5px;">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right: 2px;"/>
+<br><br>
+
+**DevOps, Nuvem & Infraestrutura**
 <br>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/git-animated.svg" width="60" style="margin: 0px 10px 0px 0px;">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 0px 10px -8px 10px;">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60" height="60" style="margin: 0px 10px -10px 10px;"/>
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/linux-animated.svg" width="60" alt="Linux Tux animated" style="margin: 0px 10px 0px 10px;">
+<br>
+<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin-right: 2px;"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<br><br>
+
+**Gestão Ágil & IDEs** <br>
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/Scrum-Methodology-blue?style=for-the-badge" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/Kanban-Workflow-blue?style=for-the-badge" style="margin-right: 2px;"/>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
-</p>
-
-**Gestão Ágil**
-<br>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Scrum-Methodology-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Kanban-Workflow-blue?style=for-the-badge" />
-
-<!-- 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="50%">
-</p>
-
-<!-- <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="60" style="margin: 5px;"> -->
-<!-- <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /> -->
-<!-- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" /><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="60" style="margin: 5px;"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-
-<div align="center">
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/nodejs-animated.svg" width="65" alt="nodejs animated"><img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/flutter-animated.svg" width="65" alt="flutter animated"><img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/linkedin-animated.svg" width="85" alt="linkedin animated"></div> -->
-</div>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </div>
 
 ---
@@ -134,5 +84,6 @@ Minha jornada técnica é complementada por uma forte base em processos, possuin
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| <a href="https://github.com/LeonardoAlves-Dev/Projeto_ZenBank" target="_blank" style="font-size: 24px; font-weight: bold;">🌱 **ZenBank**</a> | Python, CustomTkinter, MVC | Sistema bancário desktop completo com persistência JSON e interface moderna. |
-| <a href="https://github.com/LeonardoAlves-Dev/ClashOfChampions" target="_blank" style="font-size: 24px; font-weight: bold;">🎮 **Clash of Champions**</a> | Java, JavaFX, SceneBuilder | RPG de luta 2D com sistema de batalha por turnos e animações. |
+| <a href="https://github.com/LeonardoAlves-Dev/api-gestao-escolar" target="_blank" style="font-size: 16px; font-weight: bold;">🏫 Sistema de Gestão Escolar (Full Stack V1)</a> | Java, Spring Boot, JS, HTML/CSS, MySQL | Plataforma robusta com segurança JWT, upload de arquivos, paginação, exclusão lógica e front-end responsivo integrado nativamente à API. |
+| <a href="https://github.com/LeonardoAlves-Dev/api-gestao-autoescola" target="_blank" style="font-size: 16px; font-weight: bold;">🚗 API Autoescola</a> | Java, Spring, Redis, RabbitMQ | Arquitetura escalável de microsserviços implementando mensageria assíncrona, cache em memória e persistência avançada. |
+| <a href="https://github.com/LeonardoAlves-Dev/desktop-app-zenbank" target="_blank" style="font-size: 16px; font-weight: bold;">🌱 ZenBank (App Desktop)</a> | Python, CustomTkinter, MVC | Sistema bancário em arquitetura MVC com persistência JSON e renderização de interface gráfica avançada. |
