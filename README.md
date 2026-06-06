@@ -29,9 +29,9 @@ Possuo uma raiz forte no desenvolvimento web e manipulação de DOM (HTML5, CSS3
 
 **Software Engineering (Back-end & Front-end)**
 <br>
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="60">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API Rest" width="65" height="65" style="margin: 0px 0px -15px 30px;">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="75" style="margin: 0px 0px -15px 30px;">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60">
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API Rest" width="60" style="margin: 0px 0px -15px 30px;">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="70" style="margin: 0px 0px -15px 30px;">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" style="margin: 0px 0px 0px 40px;">
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 0px 0px 0px 30px;">
 <br>
@@ -44,26 +44,24 @@ Possuo uma raiz forte no desenvolvimento web e manipulação de DOM (HTML5, CSS3
 
 **Engenharia de Dados & Automação**
 <br>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="60" style="margin: 0px 0px 0px -15px;">
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/postgres-animated.svg" width="50" alt="postgres animated" style="margin: 0px 0px 0px 20px;">
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/mongodb-animated.svg" width="50" alt="mongodb animated" style="margin: 0px 10px 0px 10px;">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin: 0px 15px 0px 0px;">
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/excel-aninated.svg" width="50" alt="excel aninated" style="margin: 0px 20px 0px 0px;">
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/powerbi-animated.svg" width="45" alt="powerbi animated">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" style="margin-left: 15px;">
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/postgres-animated.svg" width="50" alt="postgres animated" style="margin-left: 15px;">
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/mongodb-animated.svg" width="50" alt="mongodb animated" style="margin-left: 15px;">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin-right: 15px;">
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/excel-aninated.svg" width="50" alt="excel aninated">
 <br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-right: 2px;"/>
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="margin-right: 2px;"/>
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right: 2px;"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 <br><br>
 
 **DevOps, Nuvem & Infraestrutura**
 <br>
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/git-animated.svg" width="60" style="margin: 0px 10px 0px 0px;">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin: 0px 10px -8px 10px;">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60" height="60" style="margin: 0px 10px -10px 10px;"/>
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/linux-animated.svg" width="60" alt="Linux Tux animated" style="margin: 0px 10px 0px 10px;">
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/git-animated.svg" width="60" style="margin-left: 15px;">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin-left: 15px;">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60" style="margin-left: 15px;"/>
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/linux-animated.svg" width="60" alt="Linux Tux animated" style="margin-left: 15px;">
 <br>
 <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-right: 2px;"/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="margin-right: 2px;"/>
@@ -71,7 +69,8 @@ Possuo uma raiz forte no desenvolvimento web e manipulação de DOM (HTML5, CSS3
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <br><br>
 
-**Gestão Ágil & IDEs** <br>
+**Gestão Ágil & IDEs**
+<br><br>
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" style="margin-right: 2px;"/>
 <img src="https://img.shields.io/badge/Scrum-Methodology-blue?style=for-the-badge" style="margin-right: 2px;"/>
 <img src="https://img.shields.io/badge/Kanban-Workflow-blue?style=for-the-badge" style="margin-right: 2px;"/>
