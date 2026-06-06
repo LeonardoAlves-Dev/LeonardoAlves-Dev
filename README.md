@@ -1,8 +1,8 @@
 <div align="center">
-  <h1>Olá, eu sou o Leonardo Alves</h1>
-  <h3>Engenheiro de Software & Dados | Cursando Ciência da Dados na UNIVESP</h3>
-  <a href="https://www.linkedin.com/in/SEU-USUARIO-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <h1>Olá, eu sou o Leonardo Alves 👋</h1>
+  <h3>Engenheiro de Software & Dados | Graduando em Ciência de Dados (UNIVESP)</h3>
+  <a href="https://www.linkedin.com/in/leonardoalves-dev" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 5px;">
   </a>
   <a href="mailto:leonardoalvess09@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
