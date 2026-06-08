@@ -2,7 +2,8 @@
   <h1>Olá, eu sou o Leonardo Alves 👋</h1>
   <h3>Engenheiro de Software & Dados | Graduando em Ciência de Dados (UNIVESP)</h3>
   <a href="https://www.linkedin.com/in/leonardoalves-dev" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-right: 5px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    &nbsp;
   </a>
   <a href="mailto:leonardoalvess09@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -30,51 +31,76 @@ Possuo uma raiz forte no desenvolvimento web e manipulação de DOM (HTML5, CSS3
 **Software Engineering (Back-end & Front-end)**
 <br>
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60">
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API Rest" width="60" style="margin: 0px 0px -15px 30px;">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="70" style="margin: 0px 0px -15px 30px;">
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50" style="margin: 0px 0px 0px 40px;">
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60" style="margin: 0px 0px 0px 30px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API Rest" width="60">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Javascript" width="60">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="50">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" width="60">
 <br>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-right: 2px;"/>
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" style="margin-right: 2px;"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-right: 2px;"/>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+&nbsp;
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+&nbsp;
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <br><br>
 
 **Engenharia de Dados & Automação**
 <br>
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" style="margin-left: 15px;">
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/postgres-animated.svg" width="50" alt="postgres animated" style="margin-left: 15px;">
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/mongodb-animated.svg" width="50" alt="mongodb animated" style="margin-left: 15px;">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60" style="margin-right: 15px;">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/postgres-animated.svg" width="50" alt="postgres animated">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/mongodb-animated.svg" width="50" alt="mongodb animated">
+&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60">
+&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/excel-aninated.svg" width="50" alt="excel aninated">
 <br>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" style="margin-right: 2px;"/>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" style="margin-right: 2px;"/>
-<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+&nbsp;
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <br><br>
 
 **DevOps, Nuvem & Infraestrutura**
 <br>
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/git-animated.svg" width="60" style="margin-left: 15px;">
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" style="margin-left: 15px;">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60" style="margin-left: 15px;"/>
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/linux-animated.svg" width="60" alt="Linux Tux animated" style="margin-left: 15px;">
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/git-animated.svg" width="60">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/linux-animated.svg" width="60" alt="Linux Tux animated">
 <br>
-<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-right: 2px;"/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" style="margin-right: 2px;"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <br><br>
 
 **Gestão Ágil & IDEs**
 <br><br>
-<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" style="margin-right: 2px;"/>
-<img src="https://img.shields.io/badge/Scrum-Methodology-blue?style=for-the-badge" style="margin-right: 2px;"/>
-<img src="https://img.shields.io/badge/Kanban-Workflow-blue?style=for-the-badge" style="margin-right: 2px;"/>
+<img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Scrum-Methodology-blue?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/Kanban-Workflow-blue?style=for-the-badge" />
+&nbsp;
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+&nbsp;
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </div>
 
