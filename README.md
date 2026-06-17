@@ -19,7 +19,7 @@ Graduando em Tecnologia da Informação na **UNIVESP** (Eixo de Computação), c
 em Ciência de Dados a partir do 4º período.
 
 Construo APIs RESTful escaláveis com **Java/Spring Boot**, automações inteligentes com **Python**
-e pipelines de conteúdo com **IA generativa** (Claude, Gemini). Visão Full Stack com raiz sólida
+e pipelines de conteúdo com **IA generativa** (Gemini, Claude, ChatGPT). Visão Full Stack com raiz sólida
 em Back-end e engenharia orientada a dados.
 
 * 🔭 **Foco Atual:** APIs Enterprise (Java/Spring Boot), automação com LLMs e engenharia de pipelines de dados
