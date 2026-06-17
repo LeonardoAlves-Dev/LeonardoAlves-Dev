@@ -14,13 +14,17 @@
 
 ### 👨‍💻 Sobre Mim
 
-Construindo uma arquitetura de carreira sólida na intersecção entre **Engenharia de Software** e **Ciência de Dados**. Como estudante de Tecnologia da Informação na **UNIVESP**, meu foco está na criação de sistemas resilientes, APIs RESTful escaláveis e automações inteligentes orientadas a dados.
+Desenvolvedor Back-end com foco na intersecção entre **Engenharia de Software** e **Dados**.
+Graduando em Tecnologia da Informação na **UNIVESP** (Eixo de Computação), com trilha confirmada
+em Ciência de Dados a partir do 4º período.
 
-Possuo uma raiz forte no desenvolvimento web e manipulação de DOM (HTML5, CSS3, JS, PHP), o que me permite atuar com visão **Full Stack**, enquanto concentro minha força arquitetural no Back-end e na engenharia de pipelines. Além do rigor técnico, possuo certificação em **Gestão de Projetos de TI (120h)**, aplicando governança ágil (Scrum/Kanban) e ferramentas como Jira no ciclo de vida do software.
+Construo APIs RESTful escaláveis com **Java/Spring Boot**, automações inteligentes com **Python**
+e pipelines de conteúdo com **IA generativa** (Claude, Gemini). Visão Full Stack com raiz sólida
+em Back-end e engenharia orientada a dados.
 
-* 🔭 **Foco Atual:** Desenvolvimento de APIs Enterprise (Java/Spring Boot), construção de SPAs e scripts de automação analítica (Python/Pandas).
-* 🌱 **Aprofundando em:** Arquitetura de Software (Docker, AWS), Bancos de Dados Avançados (PostgreSQL/MongoDB) e ecossistemas reativos (Angular).
-* 🎯 **Roadmap de Carreira:** Consolidar a base de Engenharia de Software para evoluir em arquiteturas de **Data Engineering** e, a longo prazo, **MLOps**.
+* 🔭 **Foco Atual:** APIs Enterprise (Java/Spring Boot), automação com LLMs e engenharia de pipelines de dados
+* 🌱 **Aprofundando em:** Arquitetura de Software (Docker), Bancos de Dados Avançados (PostgreSQL/MongoDB) e análise de dados com Python
+* 🎯 **Roadmap:** Engenharia de Software → Data Engineering → MLOps
 
 ---
 
