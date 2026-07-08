@@ -1,5 +1,5 @@
 <div align="right">
-  <a href="/">🇺🇸 English</a> | <a href="README.es.md">🇪🇸 Español</a>
+  <a href="https://github.com/LeonardoAlves-Dev">🇺🇸 English</a> | <a href="https://github.com/LeonardoAlves-Dev/LeonardoAlves-Dev/blob/main/README.es.md">🇪🇸 Español</a>
 </div>
 
 <div align="center">
