@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Olá, eu sou o Leonardo Alves 👋</h1>
-  <h3>Desenvolvedor Back-end & Dados | Graduando em Tecnologia da Informação (UNIVESP)</h3>
+  <h3>Desenvolvedor Back-end | Java · Spring Boot · Python | Graduando em TI na UNIVESP</h3>
   <a href="https://www.linkedin.com/in/leonardoalves-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     &nbsp;
@@ -18,17 +18,13 @@
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Back-end com foco na intersecção entre **Engenharia de Software** e **Dados**.
-Graduando em Tecnologia da Informação na **UNIVESP** (Eixo de Computação), com trilha confirmada
-em Ciência de Dados a partir do 4º período.
+Desenvolvedor Back-end com foco na construção de APIs robustas e automação de processos. Graduando em Tecnologia da Informação (BTI) na **UNIVESP**, construindo uma base sólida em arquitetura de sistemas, bancos de dados relacionais e clean code.
 
-Construo APIs RESTful escaláveis com **Java/Spring Boot**, automações inteligentes com **Python**
-e pipelines de conteúdo com **IA generativa** (Gemini, Claude, ChatGPT). Visão Full Stack com raiz sólida
-em Back-end e engenharia orientada a dados.
+Construo APIs RESTful escaláveis utilizando **Java/Spring Boot**, automações inteligentes com **Python** e pipelines de conteúdo usando **IA Generativa** (Gemini, Claude). Meu plano de carreira é fundamentado em uma premissa clara: uma base sólida em engenharia de software é o alicerce essencial para uma Engenharia de Dados robusta.
 
-* 🔭 **Foco Atual:** APIs Enterprise (Java/Spring Boot), automação com LLMs e engenharia de pipelines de dados
-* 🌱 **Aprofundando em:** Arquitetura de Software (Docker), Bancos de Dados Avançados (PostgreSQL/MongoDB) e análise de dados com Python
-* 🎯 **Roadmap:** Engenharia de Software → Data Engineering → MLOps
+* 🔭 **Foco Atual:** APIs Enterprise (Java/Spring Boot), automação com LLMs e arquitetura back-end.
+* 🌱 **Aprofundando em:** Arquitetura de Software (Docker, Hexagonal), Bancos de Dados Relacionais (PostgreSQL/MySQL) e Python.
+* 🎯 **Roadmap:** Engenharia de Software → Especialização em Dados → MLOps
 
 ---
 
@@ -36,7 +32,7 @@ em Back-end e engenharia orientada a dados.
 
 <div align="center">
 
-**Software Engineering (Back-end & Front-end)**
+**Engenharia de Software (Back-end & Front-end)**
 <br>
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,7 +65,7 @@ em Back-end e engenharia orientada a dados.
 &nbsp;&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60">
 &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/excel-aninated.svg" width="50" alt="excel aninated">
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/excel-aninated.svg" width="50" alt="excel animated">
 <br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 &nbsp;
@@ -118,6 +114,6 @@ em Back-end e engenharia orientada a dados.
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| <a href="https://github.com/LeonardoAlves-Dev/api-gestao-escolar" target="_blank" style="font-size: 16px; font-weight: bold;">🏫 Sistema de Gestão Escolar (Full Stack V1)</a> | Java, Spring Boot, JS, HTML/CSS, MySQL | Plataforma robusta com segurança JWT, upload de arquivos, paginação, exclusão lógica e front-end responsivo integrado nativamente à API. |
-| <a href="https://github.com/LeonardoAlves-Dev/api-gestao-autoescola" target="_blank" style="font-size: 16px; font-weight: bold;">🚗 API Autoescola</a> | Java, Spring, Redis, RabbitMQ | Arquitetura escalável de microsserviços implementando mensageria assíncrona, cache em memória e persistência avançada. |
-| <a href="https://github.com/LeonardoAlves-Dev/desktop-app-zenbank" target="_blank" style="font-size: 16px; font-weight: bold;">🌱 ZenBank (App Desktop)</a> | Python, CustomTkinter, MVC | Sistema bancário em arquitetura MVC com persistência JSON e renderização de interface gráfica avançada. |
+| <a href="https://github.com/LeonardoAlves-Dev/api-gestao-escolar" target="_blank" style="font-size: 16px; font-weight: bold;">🏫 API de Gestão Escolar</a> | Java, Spring Boot, JS, HTML/CSS, MySQL | Sistema Back-end desenvolvido para registro e controle de ocorrências. Arquitetado com autenticação segura (RBAC/JWT) e integrado com uma interface em JS Vanilla. |
+| <a href="https://github.com/LeonardoAlves-Dev/api-gestao-autoescola" target="_blank" style="font-size: 16px; font-weight: bold;">🚗 API Autoescola</a> | Java, Spring, Redis, RabbitMQ | API RESTful escalável construída em Arquitetura Hexagonal. Implementa mensageria assíncrona com RabbitMQ e cache em memória. |
+| <a href="https://github.com/LeonardoAlves-Dev/desktop-app-zenbank" target="_blank" style="font-size: 16px; font-weight: bold;">🌱 ZenBank (App Desktop)</a> | Python, CustomTkinter, MVC | Aplicação bancária simulada utilizando arquitetura MVC, persistência JSON e renderização avançada de interface gráfica. |
