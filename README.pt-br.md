@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Olá, eu sou o Leonardo Alves 👋</h1>
-  <h3>Desenvolvedor Back-end | Java · Spring Boot · Python | Graduando em TI na UNIVESP</h3>
+  <h3>Engenheiro de Software | Java · Spring Boot · Python | Graduando em TI na UNIVESP</h3>
   <a href="https://www.linkedin.com/in/leonardoalves-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     &nbsp;
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Desenvolvedor Back-end com foco na construção de APIs robustas e automação de processos. Graduando em Tecnologia da Informação (BTI) na **UNIVESP**, construindo uma base sólida em arquitetura de sistemas, bancos de dados relacionais e clean code.
+Engenheiro de Software com foco na construção de APIs robustas e automação de processos. Graduando em Tecnologia da Informação (BTI) na **UNIVESP**, construindo uma base sólida em arquitetura de sistemas, bancos de dados relacionais e clean code.
 
 Construo APIs RESTful escaláveis utilizando **Java/Spring Boot**, automações inteligentes com **Python** e pipelines de conteúdo usando **IA Generativa** (Gemini, Claude). Meu plano de carreira é fundamentado em uma premissa clara: uma base sólida em engenharia de software é o alicerce essencial para uma Engenharia de Dados robusta.
 
