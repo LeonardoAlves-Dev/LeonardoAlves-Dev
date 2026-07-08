@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Hi, I'm Leonardo Alves 👋</h1>
-  <h3>Backend Developer | Java · Spring Boot · Python | BTI Student at UNIVESP</h3>
+  <h3>Software Engineer | Java · Spring Boot · Python | BTI Student at UNIVESP</h3>
   <a href="https://www.linkedin.com/in/leonardoalves-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     &nbsp;
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-Backend developer with a strong focus on building robust APIs and automating processes. Currently pursuing a Bachelor's degree in Information Technology (BTI) at **UNIVESP**, building a solid foundation in systems architecture, relational databases, and clean code.
+Software Engineer with a strong focus on building robust APIs and automating processes. Currently pursuing a Bachelor's degree in Information Technology (BTI) at **UNIVESP**, building a solid foundation in systems architecture, relational databases, and clean code.
 
 I build scalable RESTful APIs using **Java/Spring Boot**, intelligent automations with **Python**, and content pipelines using **Generative AI** (Gemini, Claude). My career roadmap is built on a clear premise: a solid software engineering background is the essential foundation for robust Data Engineering.
 
