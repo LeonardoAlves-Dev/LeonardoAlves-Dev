@@ -1,6 +1,10 @@
+<div align="right">
+  <a href="README.md">🇺🇸 English</a> | <a href="README.pt-br.md">🇧🇷 Português</a> | <a href="README.es.md">🇪🇸 Español</a>
+</div>
+
 <div align="center">
-  <h1>Olá, eu sou o Leonardo Alves 👋</h1>
-  <h3>Desenvolvedor Back-end & Dados | Graduando em Tecnologia da Informação (UNIVESP)</h3>
+  <h1>Hi, I'm Leonardo Alves 👋</h1>
+  <h3>Backend Developer | Java · Spring Boot · Python | BTI Student at UNIVESP</h3>
   <a href="https://www.linkedin.com/in/leonardoalves-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     &nbsp;
@@ -12,27 +16,23 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Desenvolvedor Back-end com foco na intersecção entre **Engenharia de Software** e **Dados**.
-Graduando em Tecnologia da Informação na **UNIVESP** (Eixo de Computação), com trilha confirmada
-em Ciência de Dados a partir do 4º período.
+Backend developer with a strong focus on building robust APIs and automating processes. Currently pursuing a Bachelor's degree in Information Technology (BTI) at **UNIVESP**, building a solid foundation in systems architecture, relational databases, and clean code.
 
-Construo APIs RESTful escaláveis com **Java/Spring Boot**, automações inteligentes com **Python**
-e pipelines de conteúdo com **IA generativa** (Gemini, Claude, ChatGPT). Visão Full Stack com raiz sólida
-em Back-end e engenharia orientada a dados.
+I build scalable RESTful APIs using **Java/Spring Boot**, intelligent automations with **Python**, and content pipelines using **Generative AI** (Gemini, Claude). My career roadmap is built on a clear premise: a solid software engineering background is the essential foundation for robust Data Engineering.
 
-* 🔭 **Foco Atual:** APIs Enterprise (Java/Spring Boot), automação com LLMs e engenharia de pipelines de dados
-* 🌱 **Aprofundando em:** Arquitetura de Software (Docker), Bancos de Dados Avançados (PostgreSQL/MongoDB) e análise de dados com Python
-* 🎯 **Roadmap:** Engenharia de Software → Data Engineering → MLOps
+* 🔭 **Current Focus:** Enterprise APIs (Java/Spring Boot), LLM automations, and backend architecture.
+* 🌱 **Deepening in:** Software Architecture (Docker, Hexagonal), Relational Databases (PostgreSQL/MySQL), and Python.
+* 🎯 **Roadmap:** Software Engineering → Data Engineering → MLOps
 
 ---
 
-### 🛠️ Arsenal Tecnológico
+### 🛠️ Tech Stack
 
 <div align="center">
 
-**Software Engineering (Back-end & Front-end)**
+**Software Engineering (Backend & Frontend)**
 <br>
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="60">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,7 +55,7 @@ em Back-end e engenharia orientada a dados.
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <br><br>
 
-**Engenharia de Dados & Automação**
+**Data Engineering & Automation**
 <br>
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -65,7 +65,7 @@ em Back-end e engenharia orientada a dados.
 &nbsp;&nbsp;&nbsp;
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="60">
 &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/excel-aninated.svg" width="50" alt="excel aninated">
+<img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/excel-aninated.svg" width="50" alt="excel animated">
 <br>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 &nbsp;
@@ -76,7 +76,7 @@ em Back-end e engenharia orientada a dados.
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <br><br>
 
-**DevOps, Nuvem & Infraestrutura**
+**DevOps, Cloud & Infrastructure**
 <br>
 <img src="https://raw.githubusercontent.com/LeonardoAlves-Dev/LeonardoAlves-Dev/main/assets/git-animated.svg" width="60">
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -95,7 +95,7 @@ em Back-end e engenharia orientada a dados.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <br><br>
 
-**Gestão Ágil & IDEs**
+**Agile & IDEs**
 <br><br>
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 &nbsp;
@@ -110,10 +110,10 @@ em Back-end e engenharia orientada a dados.
 
 ---
 
-### 🏆 Projetos em Destaque
+### 🏆 Featured Projects
 
-| Projeto | Tecnologias | Descrição |
+| Project | Technologies | Description |
 | :--- | :--- | :--- |
-| <a href="https://github.com/LeonardoAlves-Dev/api-gestao-escolar" target="_blank" style="font-size: 16px; font-weight: bold;">🏫 Sistema de Gestão Escolar (Full Stack V1)</a> | Java, Spring Boot, JS, HTML/CSS, MySQL | Plataforma robusta com segurança JWT, upload de arquivos, paginação, exclusão lógica e front-end responsivo integrado nativamente à API. |
-| <a href="https://github.com/LeonardoAlves-Dev/api-gestao-autoescola" target="_blank" style="font-size: 16px; font-weight: bold;">🚗 API Autoescola</a> | Java, Spring, Redis, RabbitMQ | Arquitetura escalável de microsserviços implementando mensageria assíncrona, cache em memória e persistência avançada. |
-| <a href="https://github.com/LeonardoAlves-Dev/desktop-app-zenbank" target="_blank" style="font-size: 16px; font-weight: bold;">🌱 ZenBank (App Desktop)</a> | Python, CustomTkinter, MVC | Sistema bancário em arquitetura MVC com persistência JSON e renderização de interface gráfica avançada. |
+| <a href="https://github.com/LeonardoAlves-Dev/api-gestao-escolar" target="_blank" style="font-size: 16px; font-weight: bold;">🏫 School Management API</a> | Java, Spring Boot, JS, HTML/CSS, MySQL | Backend system developed for tracking disciplinary incidents. Architected with secure authentication (RBAC/JWT) and fully integrated with a Vanilla JS frontend. |
+| <a href="https://github.com/LeonardoAlves-Dev/api-gestao-autoescola" target="_blank" style="font-size: 16px; font-weight: bold;">🚗 Driving School API</a> | Java, Spring, Redis, RabbitMQ | Scalable RESTful API built with Hexagonal Architecture. Implements asynchronous messaging with RabbitMQ and advanced in-memory caching. |
+| <a href="https://github.com/LeonardoAlves-Dev/desktop-app-zenbank" target="_blank" style="font-size: 16px; font-weight: bold;">🌱 ZenBank (Desktop App)</a> | Python, CustomTkinter, MVC | Comprehensive banking application utilizing MVC architecture, JSON persistence, and advanced GUI rendering. |
